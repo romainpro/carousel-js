@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+}
+.carousel{
+    margin: 10px;
+    width: 50%;
+    height: 80%;
+    display: flex;
+    
+}
+
+img{
+    width: 50%;
+    height: 50%;
+}
+ 
